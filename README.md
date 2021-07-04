@@ -10,7 +10,7 @@
 -->
 
 
-- 🌱 I’m currently learning: CSS, Javascript, Typescript, Node, React, SQL
+- 🌱 I’m currently learning: React and Typescript.
 - 📫 How to reach me: Morrice#5181 (Discord)
 - ⚡ Fun fact: **color-blind 🎨**
 
