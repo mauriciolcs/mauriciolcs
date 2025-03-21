@@ -11,4 +11,4 @@
 ### Hi there 👋
 
 - 📫 How to reach me: Morrice#5181 (Discord)
-- 🔭 Im currently working as head of front at [BeTalent](https://betalent.tech/)
+- 🔭 Im currently working as tech lead at [BeTalent](https://betalent.tech/)
